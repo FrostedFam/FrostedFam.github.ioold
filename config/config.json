@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xa6b76cbcdc5995f89df7d3bde458e4cebe265fcd",
+  "SCAN_LINK": "https://etherscan.io/address/0xA6b76cBcDc5995F89dF7D3BDe458e4cebE265fcd",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Frosted Fam",
+  "SYMBOL": "Frosted Fam",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 77000000000000000,
+  "DISPLAY_COST": 0.077,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/Archducks",
+  "SHOW_BACKGROUND": true
+}
